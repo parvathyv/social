@@ -1,0 +1,70 @@
+.sidebar,.navbar-default .toggle.active, .navbar-primary .toggle,
+.navbar-brand.navbar-brand-primary,
+.navbar-brand.navbar-brand-primary:hover,
+.sidebar.sidebar-skin-dark .sidebar-menu>li {
+  background: #000059 !important;
+  border-bottom:dotted 1px rgb(100,100,100) !important;
+}
+
+.navbar-brand.navbar-brand-primary img{
+  padding-top:15px;
+  width:97%;
+}
+body{
+font-family:'Open sans' !important;
+}
+
+h1, h2, h3, h4 {
+  font-family:'PT Sans Narrow' !important;
+  color: white !important;
+}
+
+.navbar-nav>li>a{
+
+  border-bottom:dotted 1px rgb(100,100,100) !important;
+}
+.sidebar.sidebar-skin-dark .sidebar-menu a.collapsed, .sidebar.sidebar-skin-dark .sidebar-menu a:not([class]), .sidebar.sidebar-skin-dark .sidebar-menu a[class=""], .sidebar.sidebar-skin-dark .sidebar-menu i {
+  color: white !important;
+}
+
+.profile_circle{
+  padding:5px 5px 5px 5px;
+}
+
+.sidebar .badge {
+  background-color:rgb(255,85,0)!important;
+  border:solid 1px white;
+  position: absolute!important;
+  top: 5px !important;
+  margin-left:-15px;
+}
+
+.cover.profile .wrapper .image {
+
+  padding-right: 0px !important;
+
+}
+
+.btn-success{
+  background-color: rgb(255,85,0)!important;
+  border-color:rgb(255,85,0)!important;
+}
+
+.expandable .expandable-indicator i {
+  background-color: #000059!important;
+}
+.profile-icons span{
+  color:#000059!important;
+}
+
+.profile-icons span i {
+  font-size: 20px !important;
+  color: #000059!important;
+}
+
+
+
+.timeline-block .panel-heading {
+  background-color:#000052 !important;
+  font-family:'Pathway Gothic One' !important;
+}
